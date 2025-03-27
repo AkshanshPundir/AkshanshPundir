@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshansh Pundir</h1>
-<h3 align="center">A passionate frontend developer from India trying to develope my skills more and refurnished myself in it</h3>
+<h3 align="center">Trying to develope my skills more and refurnished myself in it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshanshpundir&label=Profile%20views&color=0e75b6&style=flat" alt="akshanshpundir" /> </p>
 
