@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋 I'm Akshansh Pundir</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Learning;Machine+Learning;Java;Python;Always+Learning+New+Things;Building+Awesome+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Learning;Machine+Learning;Java;R;Python;Always+Learning+New+Things;Building+Awesome+Projects"/>
 </p>
 
 ---
